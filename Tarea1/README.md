@@ -5,8 +5,8 @@ Por cuestiones de espacio, no fue posible subir la carpeta data a GitHub. Esta c
 
  Debe verse así:
 
-![data](https://github.com/user-attachments/assets/08fc00dd-2287-488d-b9d2-401c419de6cd)
-![datas](https://github.com/user-attachments/assets/9a674e1e-7fbd-4bc3-8e4d-b311aade4b40)
+![Carpeta **data**](img/carpeta_data.png)
+![Datasets de input](img/input_data.png)
 
 
 # Falta Carpeta **salidas_intermedias**
@@ -15,5 +15,5 @@ Debido a limitaciones de espacio, no fue posible subir la carpeta salidas_interm
 A continuación se muestra cómo debería verse la estructura de la carpeta una vez que se haya ejecutado el cuadernillo (inicialmente la carpeta debe estar vacía):
 
 
-![intermedia](https://github.com/user-attachments/assets/531526ba-9b44-4f5e-92af-9fb7f870ae98)
-![todas](https://github.com/user-attachments/assets/83c2fd47-4d5b-42b3-8c75-63f069733667)
+![Carpeta Intermedia](img/carpeta_intermedia.png)
+![Noticias de agosto ya clasificadas](img/csv_noticias_clasificadas.png)
