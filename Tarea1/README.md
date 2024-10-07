@@ -12,7 +12,7 @@ Por cuestiones de espacio, no fue posible subir la carpeta data a GitHub. Esta c
 # Falta Carpeta **salidas_intermedias**
 Debido a limitaciones de espacio, no fue posible subir la carpeta salidas_intermedias a GitHub. Esta carpeta contiene todas las noticias del archivo **dataset_agosto2024.csv** clasificadas mediante el modelo de inteligencia artificial.
 
-A continuación se muestra cómo debería verse la estructura de la carpeta una vez que se haya ejecutado el cuadernillo:
+A continuación se muestra cómo debería verse la estructura de la carpeta una vez que se haya ejecutado el cuadernillo (inicialmente la carpeta debe estar vacía):
 
 
 ![intermedia](https://github.com/user-attachments/assets/531526ba-9b44-4f5e-92af-9fb7f870ae98)
