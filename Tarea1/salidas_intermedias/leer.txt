@@ -1,0 +1,1 @@
+En esta carpeta, es necesario eliminar el archivo 'leer.txt' y dejarla vacía. Después de ejecutar el código en el archivo **tarea1.ipynb**, aquí se guardará la salida correspondiente a la clasificación del dataset de noticias **dataset_agosto2024.csv**.
